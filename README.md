@@ -3,20 +3,21 @@
 
 ### RESTful Booker - https://restful-booker.herokuapp.com/apidoc/index.html
 
-# The project includes:
-
-✔️ Postman Collection (with all endpoints)
+### The project includes:
 
 ✔️ Positive & Negative Test Cases (Excel Sheet)
 
-✔️ Bug Reports (Excel Sheet)
+✔️ Postman- Collection.json File
 
-✔️ Test Summary Report
+✔️ Bug Reports (Excel Sheet)
 
 ✔️ API Documentation reference
 
-✔️ Environment Setup Files
-
 ✔️ Screenshots of test execution
+
+### Detailed Test-Cases - https://docs.google.com/spreadsheets/d/1ZpA_XORrKq7Z9zsc5pt1dR1dkA5TeE72_W1A9aQSjvk/edit?usp=sharing
+
+
+
 
 
